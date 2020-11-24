@@ -1,0 +1,1 @@
+start SWINGInteropInvoker\bin\debug\SWINGInteropEngine.exe %*

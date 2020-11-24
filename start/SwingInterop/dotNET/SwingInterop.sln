@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleForms", "SampleForms\SampleForms.csproj", "{5F32A437-712E-48A0-B625-7B5D7619A4B9}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWINGInteropAdmin", "SWINGInteropAdmin\SWINGInteropAdmin.csproj", "{69444B91-5BE8-4F18-B4BB-AEC3FF00405C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWINGInteropEngineLibrary", "SWINGInteropEngineLibrary\SWINGInteropEngineLibrary.csproj", "{94D12F4B-E1C2-42FF-A7B8-C424EA5A4D66}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWINGInteropInvoker", "SWINGInteropInvoker\SWINGInteropInvoker.csproj", "{9EC1F562-AC12-4F30-9232-37AA0C2D64AF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5F32A437-712E-48A0-B625-7B5D7619A4B9}.Debug.ActiveCfg = Debug|.NET
+		{5F32A437-712E-48A0-B625-7B5D7619A4B9}.Debug.Build.0 = Debug|.NET
+		{5F32A437-712E-48A0-B625-7B5D7619A4B9}.Release.ActiveCfg = Release|.NET
+		{5F32A437-712E-48A0-B625-7B5D7619A4B9}.Release.Build.0 = Release|.NET
+		{69444B91-5BE8-4F18-B4BB-AEC3FF00405C}.Debug.ActiveCfg = Debug|.NET
+		{69444B91-5BE8-4F18-B4BB-AEC3FF00405C}.Debug.Build.0 = Debug|.NET
+		{69444B91-5BE8-4F18-B4BB-AEC3FF00405C}.Release.ActiveCfg = Release|.NET
+		{69444B91-5BE8-4F18-B4BB-AEC3FF00405C}.Release.Build.0 = Release|.NET
+		{94D12F4B-E1C2-42FF-A7B8-C424EA5A4D66}.Debug.ActiveCfg = Debug|.NET
+		{94D12F4B-E1C2-42FF-A7B8-C424EA5A4D66}.Debug.Build.0 = Debug|.NET
+		{94D12F4B-E1C2-42FF-A7B8-C424EA5A4D66}.Release.ActiveCfg = Release|.NET
+		{94D12F4B-E1C2-42FF-A7B8-C424EA5A4D66}.Release.Build.0 = Release|.NET
+		{9EC1F562-AC12-4F30-9232-37AA0C2D64AF}.Debug.ActiveCfg = Debug|.NET
+		{9EC1F562-AC12-4F30-9232-37AA0C2D64AF}.Debug.Build.0 = Debug|.NET
+		{9EC1F562-AC12-4F30-9232-37AA0C2D64AF}.Release.ActiveCfg = Release|.NET
+		{9EC1F562-AC12-4F30-9232-37AA0C2D64AF}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

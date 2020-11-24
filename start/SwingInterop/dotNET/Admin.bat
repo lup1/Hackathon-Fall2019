@@ -1,0 +1,1 @@
+SWINGInteropAdmin\bin\debug\SWINGInteropAdmin.exe %*
